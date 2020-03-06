@@ -1,0 +1,8 @@
+a {
+    color: #00f;
+}
+
+p,
+a span {
+    color: #000;
+}
